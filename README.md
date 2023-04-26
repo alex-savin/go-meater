@@ -2,7 +2,7 @@
 Is a simple API client to interact with MEATER Cloud REST API service (https://public-api.cloud.meater.com) via HTTP, written in Go
 
 ## News
-  * v1.0.0 First public release on April 245, 2023
+  * v1.0.0 First public release on April 25, 2023
 
 ## Features
   * Simple and chainable methods for settings and request
